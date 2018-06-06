@@ -1,0 +1,5 @@
+22. NLP - Sentence Document Similarity
+
+This repository shows us how to compute similarity between a Sentence and many Documents. 
+
+Document giving the best score on similarity index as according to different models (BM_25, TFIDF, Doc2Vec, WMD) will be the actual document from where the Sentence has been taken.
